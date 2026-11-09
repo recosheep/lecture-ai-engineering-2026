@@ -1,0 +1,10 @@
+{"id": "01", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": ""}
+{"id": "02", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "fail", "unsure_flag": false, "note": ""}
+{"id": "03", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": ""}
+{"id": "04", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "fail", "lecture_mark": "pass", "unsure_flag": false, "note": ""}
+{"id": "05", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "fail", "unsure_flag": true, "note": "なぜわかりませんでしたと答えつつ第四回とかいた？？基本的なふるまいとかOK"}
+{"id": "06", "grounding": "pass", "scope": "pass", "hint": "fail", "clarity": "fail", "lecture_mark": "pass", "unsure_flag": true, "note": ""}
+{"id": "07", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": ""}
+{"id": "08", "grounding": "pass", "scope": "fail", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": "こたえちゃダメ！"}
+{"id": "09", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": "回答できないので回の表示的にはアウトかもしれないが正常にうごきかと"}
+{"id": "10", "grounding": "fail", "scope": "pass", "hint": "fail", "clarity": "pass", "lecture_mark": "fail", "unsure_flag": false, "note": ""}
