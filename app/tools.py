@@ -129,6 +129,7 @@ def search_graph(query: str) -> str:
     cat >> app/tools.py << 'EOF'
 
 
+# 「ないはず」という思い込み（目に見えない指示書）でツールが呼ばれないことがあるため、範囲外の回では作れる回の一覧を返す
 def make_quiz(lecture: int) -> str:
     """指定した回の用語から確認問題を1問作る。
 
